@@ -13,7 +13,4 @@ data=importdata(data_path)+1;
 [dag,time]=FedCSL(datasets,alpha); % dag is the learned causal structure.
 
 % evaluate the learned causal structure.
-[fdr,tpr,fpr,SHD,reverse,miss,extra,undirected,ar_f1,ar_precision,ar_recall]=eva_DAG(ground_truth,dag);
-            
-            
-           
+[fdr,tpr,fpr,SHD,reverse,miss,extra,undirected,ar_f1,ar_precision,ar_recall]=eva_DAG(ground_truth,dag);    
