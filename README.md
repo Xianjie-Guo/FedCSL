@@ -13,7 +13,7 @@ Alpha: the significant level, e.g., 0.01 or 0.05.
 * OUTPUT: <br>
 ```Matlab
 CausalS: the learned causal structure.
-Time: running time.
+Time: the running time.
 ```
 
 # Example for discrete dataset
