@@ -2,7 +2,7 @@
 
 # Usage
 "FedCSL.m" is main function. <br>
-Note that the current code has only been debugged on a 64-bit Windows system and supports only discrete datasets.<br>
+Note that the current code has only been debugged on Matlab (2018a) with a 64-bit Windows system and supports only discrete datasets.<br>
 ----------------------------------------------
 function [CausalS, Time] = FedCSL(Datasets, Alpha) <br>
 * INPUT: <br>
