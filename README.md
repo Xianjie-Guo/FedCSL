@@ -1,4 +1,4 @@
-[FedCSL: A Scalable and Accurate Approach to Federated Causal Structure Learning](https://xianjie-guo.github.io/EnHome.html) <br>
+[FedCSL: A Scalable and Accurate Approach to Federated Causal Structure Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29113) <br>
 
 # Usage
 "FedCSL.m" is main function. <br>
